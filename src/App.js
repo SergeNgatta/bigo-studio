@@ -7,7 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        <h1>Welcome to BIGO Studio 🎵</h1>
+        <p>Book your recording session today!</p>
+
         </p>
         <a
           className="App-link"
